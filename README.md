@@ -30,12 +30,12 @@ h2. User Stories
 
 | # | User Story | Acceptance Criteria | Pass/Fail | Results |
 |---|-----------|--------------------|-----------|---------|
-| 1 | Retrieve All Products | The API must return all active products in JSON format. Each product must include title, price, stock quantity, and description. | | |
-| 2 | Create a New Product | The API must accept product details and create a new entry in Shopify. The response must contain the created product's unique ID. | | |
-| 3 | Retrieve Customer Information | The API must return customer details, including name, email, and purchase history. | | |
-| 4 | Update Inventory Levels | The API must update inventory levels accurately for specified products and locations. | | |
-| 5 | Process an Order | The API must retrieve and process orders, providing necessary details for fulfillment. | | |
-| 6 | Generate a Discount Code | The API must allow for the creation of discount codes with customizable parameters. | | |
+| 1 | As a DevOps Engineer Lead, I want to retrieve all products so that I can verify inventory availability in real-time. | The API must return all active products in JSON format. Each product must include title, price, stock quantity, and description. | | |
+| 2 | As a DevOps Engineer Lead, I want to create a new product so that I can ensure accurate product listings within Shopify. | The API must accept product details and create a new entry in Shopify. The response must contain the created product's unique ID. | | |
+| 3 | As a DevOps Engineer Lead, I want to retrieve customer information so that I can analyze customer purchase history for better decision-making. | The API must return customer details, including name, email, and purchase history. | | |
+| 4 | As a DevOps Engineer Lead, I want to update inventory levels so that I can maintain accurate stock levels across multiple warehouses. | The API must update inventory levels accurately for specified products and locations. | | |
+| 5 | As a DevOps Engineer Lead, I want to process an order so that I can ensure seamless order fulfillment and tracking. | The API must retrieve and process orders, providing necessary details for fulfillment. | | |
+| 6 | As a DevOps Engineer Lead, I want to generate a discount code so that I can provide promotions and incentives for customers. | The API must allow for the creation of discount codes with customizable parameters. | | |
 
 h2. API Endpoints & Examples
 
