@@ -135,3 +135,5 @@ After completing the API integration tests, the following table provides a summa
 h2. Conclusion
 This guide outlines the Shopify API integration process with six core user stories. By following these steps, developers can effectively integrate and manage Shopify store operations programmatically.
 
+Want to explore Shopify’s official documentation? Find it here: [https://shopify.dev/docs/storefronts/themes/tools/github]
+
